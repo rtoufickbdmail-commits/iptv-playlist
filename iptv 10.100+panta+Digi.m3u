@@ -95,85 +95,85 @@ http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1,group-title="Bangladesh"NEWS24-10.100
+#EXTINF:-1, group-title="Bangladesh"NEWS24-10.100
 http://10.100.100.100:8081/hls/6.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"JAMUNA TV-10.100
+#EXTINF:-1, group-title="Bangladesh"JAMUNA TV-10.100
 http://10.100.100.100:8081/hls/8.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"JamunaTV-Digi
+#EXTINF:-1, group-title="Bangladesh"JamunaTV-Digi
 http://172.18.18.18/hls/tv3.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"JamunaTV-PANTA
+#EXTINF:-1, group-title="Bangladesh"JamunaTV-PANTA
 http://172.21.20.223:8080/Jamuna-TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,group-title="Bangladesh"DBC-PANTA
+#EXTINF:-1, group-title="Bangladesh"DBC-PANTA
 http://172.21.20.223:8080/DBC-News/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"Channel-I-PANTA
+#EXTINF:-1, group-title="Bangladesh"Channel-I-PANTA
 http://172.21.20.223:8080/Channel-I/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"Independent-TV-PANTA
+#EXTINF:-1, group-title="Bangladesh"Independent-TV-PANTA
 http://172.21.20.223:8080/Independent-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="Bangladesh"Deepto-TV-PANTA
+#EXTINF:-1, group-title="Bangladesh"Deepto-TV-PANTA
 http://172.21.20.223:8080/Deepto-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"Star-Jalsha-PANTA
+#EXTINF:-1, group-title="India"Star-Jalsha-PANTA
 http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"ZEE-Bangla-Digi
+#EXTINF:-1, group-title="India"ZEE-Bangla-Digi
 http://172.18.18.18/hls/tv1.m3u8
 
-#EXTINF:-1,group-title="India"ZEE-BANGLA-PANTA
+#EXTINF:-1, group-title="India"ZEE-BANGLA-PANTA
 http://172.21.20.223:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"Sony-PANTA
+#EXTINF:-1, group-title="India"Sony-PANTA
 http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"Starplus-PANTA
+#EXTINF:-1, group-title="India"Starplus-PANTA
 http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"& Pictures-PANTA
+#EXTINF:-1, group-title="India"& Pictures-PANTA
 http://172.21.20.223:8080/andpictures/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"Colors Bangla-PANTA
+#EXTINF:-1, group-title="India"Colors Bangla-PANTA
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"StarMoviesHD-PANTA
+#EXTINF:-1, group-title="India"StarMoviesHD-PANTA
 http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,group-title="India"HBO-Hits-Digi
+#EXTINF:-1, group-title="India"HBO-Hits-Digi
 http://172.18.18.18/hls/tv4.m3u8
 
-#EXTINF:-1,group-title="India"Sangeetbangla-PANTA
+#EXTINF:-1, group-title="India"Sangeetbangla-PANTA
 http://172.21.20.222:8080/sangeetbangla/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="India"9XM-PANTA
+#EXTINF:-1, group-title="India"9XM-PANTA
 http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH-10.100
+#EXTINF:-1, group-title="UpComming"EXTRA-CH-10.100
 http://10.100.100.100:8081/hls/7.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH1-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH1-PANTA
 http://172.21.20.223:8080/FIFA-2026-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH2-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH2-PANTA
 http://172.21.20.223:8080/FIFA-2026-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH3-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH3-PANTA
 http://172.21.20.230:8080/TSports-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH4-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH4-PANTA
 http://172.21.20.230:8080/TSports-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH5-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH5-PANTA
 http://172.21.20.230:8080/TSports-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,group-title="UpComming"EXTRA-CH6-PANTA
+#EXTINF:-1, group-title="UpComming"EXTRA-CH6-PANTA
 http://172.21.20.222:8080/BIN-1/tracks-v1a1/mono.m3u8
 
 
