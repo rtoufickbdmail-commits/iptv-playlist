@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1,group-title="Sports"BTV-HD-10.100
+#EXTINF:-1 tvg-name="BTV-HD-10.100" group-title="Sports",BTV
 http://10.100.100.100:8081/hls/1.m3u8
 
-#EXTINF:-1,group-title="Sports"TSports-10.100
+#EXTINF:-1,tvg-name="TSports-10.100" group-title="Sports",TSports-10.100
 http://10.100.100.100:8081/hls/4.m3u8
 
 #EXTINF:-1,group-title="Sports"TSports-Digi 
