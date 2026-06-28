@@ -2,35 +2,60 @@
 
 #EXTINF:-1 tvg-name="BTV-HD-10.100" group-title="Sports",BTV-10.100
 http://10.100.100.100:8081/hls/1.m3u8
-
 #EXTINF:-1,tvg-name="TSports-10.100" group-title="Sports",TSports-10.100
 http://10.100.100.100:8081/hls/4.m3u8
-
 #EXTINF:-1,tvg-name="TSports-Digi" group-title="Sports",TSports-Digi
 http://172.18.18.18/hls/tv2.m3u8
-
-#EXTINF:-1,group-title="Sports"SOMOY TV-10.100
+#EXTINF:-1,tvg-name="SOMOY TV-10.100"group-title="Sports"SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-
-#EXTINF:-1,group-title="Sports"SOMOY TV-PANTA
+#EXTINF:-1,tvg-name="SOMOY TV-PANTA"group-title="Sports"SOMOY TV-PANTA
 http://172.21.20.230:8080/SomoyTV/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,group-title="Sports"FIFA_PLUS_United_States 2-PANTA
+#EXTINF:-1,tvg-name="FIFA_PLUS_United_States 2-PANTA"group-title="Sports"FIFA_PLUS_United_States 2-PANTA
 http://172.21.20.222:8080/FIFA_PLUS_United_States/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,group-title="Sports"A-SPORTS-HD-PANTA
+#EXTINF:-1,tvg-name="Sports"A-SPORTS-HD-PANTA"group-title="Sports"A-SPORTS-HD-PANTA
 http://172.21.20.230:8080/A-SPORTS-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,group-title="Sports"STAR-SPORTS-HD-10.100
+#EXTINF:-1,tvg-name="Sports"STAR-SPORTS-HD-10.100"group-title="Sports"STAR-SPORTS-HD-10.100
 http://10.100.100.100:8081/hls/2.m3u8
-
-#EXTINF:-1,group-title="Sports"SONY-SPORTS-1-10.100
+#EXTINF:-1,tvg-name="SONY-SPORTS-1-10.100"group-title="Sports"SONY-SPORTS-1-10.100
 http://10.100.100.100:8081/hls/3.m3u8
-
-#EXTINF:-1,group-title="Sports"STAR-SPORTS1-PANTA
+#EXTINF:-1,tvg-name="STAR-SPORTS1-PANTA"group-title="Sports"STAR-SPORTS1-PANTA
 http://172.21.20.230:8080/STAR-SPORTS1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-name="BTV" group-title="Ten.Hundred FTP",BTV
+http://10.100.100.100:8081/hls/1.m3u8
+#EXTINF:-1 tvg-name="TSports" group-title="Ten.Hundred FTP",TSports
+http://10.100.100.100:8081/hls/4.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" group-title="Ten.Hundred FTP",SOMOY TV
+http://10.100.100.100:8081/hls/5.m3u8
+#EXTINF:-1 tvg-name="STAR-SPORTS-HD" group-title="Ten.Hundred FTP",STAR-SPORTS-HD
+http://10.100.100.100:8081/hls/2.m3u8
+#EXTINF:-1 tvg-name="SONY-SPORTS-1" group-title="Ten.Hundred FTP",SONY-SPORTS-1
+http://10.100.100.100:8081/hls/3.m3u8
+#EXTINF:-1 tvg-name="NEWS24" group-title="Ten.Hundred FTP",NEWS24
+http://10.100.100.100:8081/hls/6.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Ten.Hundred FTP",JAMUNA TV
+http://10.100.100.100:8081/hls/8.m3u8
+
+
+#EXTINF:-1 tvg-name="TSports" group-title="DiGi FTP",TSports
+http://172.18.18.18/hls/tv2.m3u8
+#EXTINF:-1 tvg-name="JamunaTV" group-title="DiGi FTP",JamunaTV
+http://172.18.18.18/hls/tv3.m3u8
+#EXTINF:-1 tvg-name="ZEE-Bangla" group-title="DiGi FTP",ZEE-Bangla
+http://172.18.18.18/hls/tv1.m3u8
+#EXTINF:-1 tvg-name="HBO-Hits" group-title="DiGi FTP",HBO-Hits
+http://172.18.18.18/hls/tv4.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1,group-title="Bangladesh"NEWS24-10.100
 http://10.100.100.100:8081/hls/6.m3u8
@@ -112,6 +137,13 @@ http://172.21.20.230:8080/TSports-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,group-title="UpComming"EXTRA-CH6-PANTA
 http://172.21.20.222:8080/BIN-1/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-name="GOAT 2026" group-title="Movie HD",GOAT 2026
 http://172.22.22.22/data/disk-1/Movies/animation/new/GOAT%20(2026)/GOAT.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
