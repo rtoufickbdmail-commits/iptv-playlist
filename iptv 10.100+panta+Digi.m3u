@@ -8,7 +8,7 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 tvg-name="SOMOY TV-10.100" group-title="Sports", SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 tvg-name="SOMOY TV-PANTA" group-title="Sports"SOMOY TV-PANTA
+#EXTINF:-1 tvg-name="SOMOY TV-PANTA" group-title="Sports", SOMOY TV-PANTA
 http://172.21.20.230:8080/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="FIFA_PLUS_United_States 2-PANTA" group-title="Sports", FIFA_PLUS_United_States 2-PANTA
 http://172.21.20.222:8080/FIFA_PLUS_United_States/tracks-v1a1/mono.m3u8
