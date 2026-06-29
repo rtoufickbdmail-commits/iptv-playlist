@@ -44,6 +44,10 @@ http://10.100.100.100:8081/hls/6.m3u8
 http://10.100.100.100:8081/hls/8.m3u8
 
 
+
+
+
+
 #EXTINF:-1 tvg-name="TSports" group-title="DiGi FTP", TSports
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 tvg-name="JamunaTV" group-title="DiGi FTP", JamunaTV
@@ -135,16 +139,22 @@ http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
 
 
 
-
-#EXTINF:-1 gtvg-name="StarMoviesHD" group-title="English", StarMoviesHD
-http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 gtvg-name="HBO Hits" group-title="English", HBO Hits
 http://172.18.18.18/hls/tv4.m3u8
+#EXTINF:-1 gtvg-name="Star Movies" group-title="English", Star Movies
+http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
+
+
+
+
 
 #EXTINF:-1 gtvg-name="ZooM" group-title="Music", ZooM Music
 http://172.21.20.222:8080/sangeetbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="9XM" group-title="Music", 9XM
+#EXTINF:-1 gtvg-name="9xM" group-title="Music", 9xM
 http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
+
+
+
 
 
 #EXTINF:-1, group-title="UpComming", EXTRA-CH-10.100
