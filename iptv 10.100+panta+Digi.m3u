@@ -113,11 +113,11 @@ http://172.21.20.223:8080/Independent-TV/tracks-v1a1/mono.m3u8
 http://172.21.20.223:8080/Deepto-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 gtvg-name="ZEE BANGLA" group-title="Bangla", ZEE Bangla
 http://172.18.18.18/hls/tv1.m3u8
-#EXTINF:-1 gtvg-name="Star Jalsha" group-title="Bangla", Star Jalsha
-http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 gtvg-name="ZEE BANGLA" group-title="Bangla", ZEE BANGLA
 http://172.21.20.223:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="Colors Bangla" group-title="Hindi", Colors Bangla
+#EXTINF:-1 gtvg-name="Star Jalsha" group-title="Bangla", Star Jalsha
+http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="Colors Bangla" group-title="Bangla", Colors Bangla
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
 
 
