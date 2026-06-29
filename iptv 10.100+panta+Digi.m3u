@@ -162,5 +162,22 @@ http://172.21.20.222:8080/BIN-1/tracks-v1a1/mono.m3u8
 http://172.22.22.22/data/disk-1/Movies/animation/new/GOAT%20(2026)/GOAT.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
 #EXTINF:-1 tvg-name="War Machine 2026 720p NF Dual Audio" group-title="Movie HD", War Machine 2026 720p NF Dual Audio
 http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/War%20Machine%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/War%20Machine%20%282026%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-name="Michael 2026 720p AMZN Dual Audio" group-title="Movie HD", Michael 2026 720p AMZN Dual Audio
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/Michael%20%282026%29%20720p%20AMZN%20%5BDual%20Audio%5D/Michael%20%282026%29%20720p%20AMZN-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-name="Project Hail Mary 2026 720p AMZN Dual Audio" group-title="Movie HD", Project Hail Mary 2026 720p AMZN Dual Audio
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/Project%20Hail%20Mary%20%282026%29%20720p%20AMZN%20%5BDual%20Audio%5D/Project%20Hail%20Mary%20%282026%29%20IMAX%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-name="The Super Mario Galaxy Movie (2026) 720p AMZN Dual Audio" group-title="Movie HD", The Super Mario Galaxy Movie (2026) 720p AMZN Dual Audio
+http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282026%29/The%20Super%20Mario%20Galaxy%20Movie%20%282026%29%20720p%20AMZN%20%5BDual%20Audio%5D/The%20Super%20Mario%20Galaxy%20Movie%20%282026%29%20720p%20AMZN-WEB%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 tvg-name="Toy Story 5" group-title="Movie HD", Toy Story 5
+http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282026%29/Toy%20Story%205%20%282026%29%20720p%20HDTC%20%5BDual%20Audio%5D/Toy%20Story%205%20%282026%29%20720p%20HDTC%20x264%20%5BDual%20Audio%5D%5BHindi%20%28Clean%29%2BEnglish%20CAM%5D%20-HDHub.mkv
+
+
+
+
+
+
+
+
+
 
 
