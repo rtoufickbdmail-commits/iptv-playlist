@@ -95,97 +95,72 @@ http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1, group-title="Bangladesh", NEWS24-10.100
+#EXTINF:-1 gtvg-name="NEWS24" group-title="Bangla", NEWS24
 http://10.100.100.100:8081/hls/6.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", JAMUNA TV-10.100
+#EXTINF:-1 gtvg-name="JAMUNA TV" group-title="Bangla", JAMUNA TV
 http://10.100.100.100:8081/hls/8.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", JamunaTV-Digi
+#EXTINF:-1 gtvg-name="JAMUNA TV" group-title="Bangla", JAMUNA TV
 http://172.18.18.18/hls/tv3.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", JamunaTV-PANTA
+#EXTINF:-1 gtvg-name="JAMUNA TV" group-title="Bangla", JAMUNA TV
 http://172.21.20.223:8080/Jamuna-TV/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1, group-title="Bangladesh", DBC-PANTA
+#EXTINF:-1 gtvg-name="DBC" group-title="Bangla", DBC
 http://172.21.20.223:8080/DBC-News/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", Channel-I-PANTA
+#EXTINF:-1 gtvg-name="Channel I" group-title="Bangla", Channel I
 http://172.21.20.223:8080/Channel-I/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", Independent-TV-PANTA
+#EXTINF:-1 gtvg-name="Independent TV" group-title="Bangla", Independent TV
 http://172.21.20.223:8080/Independent-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="Bangladesh", Deepto-TV-PANTA
+#EXTINF:-1 gtvg-name="Deepto" group-title="Bangla", Deepto
 http://172.21.20.223:8080/Deepto-TV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", Star-Jalsha-PANTA
-http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", ZEE-Bangla-Digi
+#EXTINF:-1 gtvg-name="ZEE BANGLA" group-title="Bangla", ZEE Bangla
 http://172.18.18.18/hls/tv1.m3u8
-
-#EXTINF:-1, group-title="India", ZEE-BANGLA-PANTA
+#EXTINF:-1 gtvg-name="Star Jalsha" group-title="Bangla", Star Jalsha
+http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="ZEE BANGLA" group-title="Bangla", ZEE BANGLA
 http://172.21.20.223:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", Sony-PANTA
-http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", Starplus-PANTA
-http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", & Pictures-PANTA
-http://172.21.20.223:8080/andpictures/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", Colors Bangla-PANTA
+#EXTINF:-1 gtvg-name="Colors Bangla" group-title="Hindi", Colors Bangla
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, group-title="India", StarMoviesHD-PANTA
+
+#EXTINF:-1 gtvg-name="Sony TV" group-title="Hindi", Sony TV
+http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="Starplus" group-title="Hindi", Starplus
+http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="And Pictures" group-title="Hindi", And Pictures
+http://172.21.20.223:8080/andpictures/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 gtvg-name="StarMoviesHD" group-title="English", StarMoviesHD
 http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1, group-title="India", HBO-Hits-Digi
+#EXTINF:-1 gtvg-name="HBO Hits" group-title="English", HBO Hits
 http://172.18.18.18/hls/tv4.m3u8
 
-#EXTINF:-1, group-title="India", Sangeetbangla-PANTA
+#EXTINF:-1 gtvg-name="ZooM" group-title="Music", ZooM Music
 http://172.21.20.222:8080/sangeetbangla/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, group-title="India", 9XM-PANTA
+#EXTINF:-1 gtvg-name="9XM" group-title="Music", 9XM
 http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, group-title="UpComming", EXTRA-CH-10.100
 http://10.100.100.100:8081/hls/7.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH1-PANTA
 http://172.21.20.223:8080/FIFA-2026-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH2-PANTA
 http://172.21.20.223:8080/FIFA-2026-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH3-PANTA
 http://172.21.20.230:8080/TSports-1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH4-PANTA
 http://172.21.20.230:8080/TSports-2/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH5-PANTA
 http://172.21.20.230:8080/TSports-3/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1, group-title="UpComming", EXTRA-CH6-PANTA
 http://172.21.20.222:8080/BIN-1/tracks-v1a1/mono.m3u8
 
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-name="GOAT 2026" group-title="Movie HD",GOAT 2026
+#EXTINF:-1 tvg-name="GOAT 2026" group-title="Movie HD", GOAT 2026
 http://172.22.22.22/data/disk-1/Movies/animation/new/GOAT%20(2026)/GOAT.2026.720p.WEBRip.x264.AAC-[YTS.BZ].mp4
-#EXTINF:-1 tvg-name="MILF Tiffani Madison " group-title="Movie HD",MILF Tiffani Madison
-https://video-nss.xhcdn.com/Hpe5K-GCfzfa0v6IxyE0-A==,1782694800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:,3840x2160:2160p:/029/539/431/1080p.av1.mp4
-#EXTINF:-1 tvg-name="M614G02 Uncle" group-title="Movie HD",M614G02 Uncle
-https://video-nss.xhcdn.com/clTefiePxX72P4E6jthvsw==,1782694800/media=hls4/multi=256x144:144p:,426x240:240p:,854x480:480p:,1280x720:720p:,1920x1080:1080p:/023/560/156/720p.av1.mp4
+#EXTINF:-1 tvg-name="War Machine 2026 720p NF Dual Audio" group-title="Movie HD", War Machine 2026 720p NF Dual Audio
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/War%20Machine%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/War%20Machine%20%282026%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+
+
