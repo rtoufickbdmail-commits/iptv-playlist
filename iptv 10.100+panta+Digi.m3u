@@ -4,7 +4,7 @@
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RY7jBwPKAr.jpg", Upcoming Match Server
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782287049~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveUIquATxp7U9qRWDundJ4tY6Wt81zwiUKg_M6cokQk8OcgXmtq_uOMonQKGDQFPN5DepdypBkfFM8grz63CDAP
 
-#EXTINF:-1 tvg-name="BTV-HD-10.100" group-title="Sports", BTV-10.100
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
 http://10.100.100.100:8081/hls/1.m3u8
 #EXTINF:-1 tvg-name="TSports-10.100" group-title="Sports", TSports-10.100
 http://10.100.100.100:8081/hls/4.m3u8
