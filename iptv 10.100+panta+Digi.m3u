@@ -28,62 +28,62 @@ http://172.21.20.230:8080/TSports-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-name="BTV" group-title="Ten.Hundred FTP",BTV
+#EXTINF:-1 tvg-name="BTV" group-title="Ten.Hundred FTP", BTV
 http://10.100.100.100:8081/hls/1.m3u8
-#EXTINF:-1 tvg-name="TSports" group-title="Ten.Hundred FTP",TSports
+#EXTINF:-1 tvg-name="TSports" group-title="Ten.Hundred FTP", TSports
 http://10.100.100.100:8081/hls/4.m3u8
-#EXTINF:-1 tvg-name="SOMOY TV" group-title="Ten.Hundred FTP",SOMOY TV
+#EXTINF:-1 tvg-name="SOMOY TV" group-title="Ten.Hundred FTP", SOMOY TV
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 tvg-name="STAR-SPORTS-HD" group-title="Ten.Hundred FTP",STAR-SPORTS-HD
+#EXTINF:-1 tvg-name="STAR-SPORTS-HD" group-title="Ten.Hundred FTP", STAR-SPORTS-HD
 http://10.100.100.100:8081/hls/2.m3u8
-#EXTINF:-1 tvg-name="SONY-SPORTS-1" group-title="Ten.Hundred FTP",SONY-SPORTS-1
+#EXTINF:-1 tvg-name="SONY-SPORTS-1" group-title="Ten.Hundred FTP", SONY-SPORTS-1
 http://10.100.100.100:8081/hls/3.m3u8
-#EXTINF:-1 tvg-name="NEWS24" group-title="Ten.Hundred FTP",NEWS24
+#EXTINF:-1 tvg-name="NEWS24" group-title="Ten.Hundred FTP", NEWS24
 http://10.100.100.100:8081/hls/6.m3u8
-#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Ten.Hundred FTP",JAMUNA TV
+#EXTINF:-1 tvg-name="JAMUNA TV" group-title="Ten.Hundred FTP", JAMUNA TV
 http://10.100.100.100:8081/hls/8.m3u8
 
 
-#EXTINF:-1 tvg-name="TSports" group-title="DiGi FTP",TSports
+#EXTINF:-1 tvg-name="TSports" group-title="DiGi FTP", TSports
 http://172.18.18.18/hls/tv2.m3u8
-#EXTINF:-1 tvg-name="JamunaTV" group-title="DiGi FTP",JamunaTV
+#EXTINF:-1 tvg-name="JamunaTV" group-title="DiGi FTP", JamunaTV
 http://172.18.18.18/hls/tv3.m3u8
-#EXTINF:-1 tvg-name="ZEE-Bangla" group-title="DiGi FTP",ZEE-Bangla
+#EXTINF:-1 tvg-name="ZEE-Bangla" group-title="DiGi FTP", ZEE-Bangla
 http://172.18.18.18/hls/tv1.m3u8
-#EXTINF:-1 tvg-name="HBO-Hits" group-title="DiGi FTP",HBO-Hits
+#EXTINF:-1 tvg-name="HBO-Hits" group-title="DiGi FTP", HBO-Hits
 http://172.18.18.18/hls/tv4.m3u8
 
-#EXTINF:-1 tvg-name="TSports-1" group-title="PANTA FTP",TSports-1
+#EXTINF:-1 tvg-name="TSports-1" group-title="PANTA FTP", TSports-1
 http://172.21.20.230:8080/TSports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TSports-2" group-title="PANTA FTP",TSports-2
+#EXTINF:-1 tvg-name="TSports-2" group-title="PANTA FTP", TSports-2
 http://172.21.20.230:8080/TSports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="JamunaTV" group-title="PANTA FTP",JamunaTV
+#EXTINF:-1 tvg-name="JamunaTV" group-title="PANTA FTP", JamunaTV
 http://172.21.20.223:8080/Jamuna-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="DBC-PANTA" group-title="PANTA FTP",DBC
+#EXTINF:-1 tvg-name="DBC-PANTA" group-title="PANTA FTP", DBC
 http://172.21.20.223:8080/DBC-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel-I" group-title="PANTA FTP",Channel-I
+#EXTINF:-1 tvg-name="Channel-I" group-title="PANTA FTP", Channel-I
 http://172.21.20.223:8080/Channel-I/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Independent-TV" group-title="PANTA FTP",Independent-TV
+#EXTINF:-1 tvg-name="Independent-TV" group-title="PANTA FTP", Independent-TV
 http://172.21.20.223:8080/Independent-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Deepto-TV" group-title="PANTA FTP",Deepto-TV
+#EXTINF:-1 tvg-name="Deepto-TV" group-title="PANTA FTP", Deepto-TV
 http://172.21.20.223:8080/Deepto-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star-Jalsha" group-title="PANTA FTP",Star-Jalsha
+#EXTINF:-1 tvg-name="Star-Jalsha" group-title="PANTA FTP", Star-Jalsha
 http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ZEE-BANGLA" group-title="PANTA FTP",ZEE-BANGLA
+#EXTINF:-1 tvg-name="ZEE-BANGLA" group-title="PANTA FTP", ZEE-BANGLA
 http://172.21.20.223:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony TV" group-title="PANTA FTP",Sony TV
+#EXTINF:-1 tvg-name="Sony TV" group-title="PANTA FTP", Sony TV
 http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Starplus" group-title="PANTA FTP",Starplus
+#EXTINF:-1 tvg-name="Starplus" group-title="PANTA FTP", Starplus
 http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="& Pictures" group-title="PANTA FTP",& Pictures
+#EXTINF:-1 tvg-name="& Pictures" group-title="PANTA FTP", & Pictures
 http://172.21.20.223:8080/andpictures/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla" group-title="PANTA FTP",Colors Bangla
+#EXTINF:-1 tvg-name="Colors Bangla" group-title="PANTA FTP", Colors Bangla
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="StarMoviesHD" group-title="PANTA FTP",StarMoviesHD
+#EXTINF:-1 gtvg-name="StarMoviesHD" group-title="PANTA FTP", StarMoviesHD
 http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="ZooM" group-title="PANTA FTP",ZooM
+#EXTINF:-1 gtvg-name="ZooM" group-title="PANTA FTP", ZooM
 http://172.21.20.222:8080/sangeetbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="9XM" group-title="PANTA FTP",9XM
+#EXTINF:-1 gtvg-name="9XM" group-title="PANTA FTP", 9XM
 http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
 
 
