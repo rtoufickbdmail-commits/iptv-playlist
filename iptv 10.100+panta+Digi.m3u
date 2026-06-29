@@ -121,12 +121,19 @@ http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 gtvg-name="Sony TV" group-title="Hindi", Sony TV
-http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="Starplus" group-title="Hindi", Starplus
-http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 gtvg-name="And Pictures" group-title="Hindi", And Pictures
 http://172.21.20.223:8080/andpictures/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="Sony TV" group-title="Hindi", Sony TV
+http://172.21.20.223:8080/sonyetm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="Star Plus" group-title="Hindi", Star Plus
+http://172.21.20.223:8080/starplus/tracks-v1a1/mono.m3u8
+
+
+
+
 
 
 #EXTINF:-1 gtvg-name="StarMoviesHD" group-title="English", StarMoviesHD
