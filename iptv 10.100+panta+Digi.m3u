@@ -196,6 +196,11 @@ http://172.21.20.230:8080/TSports-3/tracks-v1a1/mono.m3u8
 http://172.21.20.222:8080/BIN-1/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://imglink.cc/cdn/B11THAoxQW.png", Apex (2026) 720p NF Dual Audio
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282026%29/Apex%20%282026%29%20720p%20NF%20%5BDual%20Audio%5D/Apex%20%282026%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 group-title="Movie HD" tvg-logo="https://imglink.cc/cdn/3p_rT15FH1.jpg", Bhooth Bangla (2026) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282026%29/Bhooth%20Bangla%20%282026%29%201080p/Bhooth%20Bangla%20%282026%29%20Hindi%201080p%20NF%20DS4K%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://imglink.cc/cdn/z-8PpBeb46.jpg", The Raja Saab 2026 1080p Dual Audio
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282026%29/The%20Raja%20Saab%20%282026%29%201080p%20%5BDual%20Audio%5D/The%20Raja%20Saab%20%282026%29%20UNCUT%201080p%20DS4K%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugul%205.1%5D%20-HDHub.mkv
 #EXTINF:-1 group-title="Movie HD" tvg-logo="https://imglink.cc/cdn/A4Uxe9CTrL.jpg", GOAT 2026
