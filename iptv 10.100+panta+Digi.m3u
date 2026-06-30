@@ -17,6 +17,8 @@ http://10.100.100.100:8081/hls/5.m3u8
 http://172.21.20.230:8080/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/prYccAFT8U.jpg", Unite8-Sports-PANTA
 http://172.21.20.222:8080/FIFA_PLUS_United_States/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/prYccAFT8U.jpg", Unite8-Sports-MANGO
+http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/prYccAFT8U.jpg", Unite8-Sports-64
 http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", A-SPORTS-HD-PANTA
@@ -124,6 +126,8 @@ http://172.21.20.223:8080/ZEE-BANGLA/tracks-v1a1/mono.m3u8
 http://172.21.20.222:8080/Star-Jalsha-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 gtvg-name="Colors Bangla" group-title="Bangla", Colors Bangla
 http://172.21.20.223:8080/COLORS-BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 gtvg-name="Thikana TV" group-title="Bangla", Thikana TV - INT
+https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
 
 
@@ -149,11 +153,29 @@ http://172.21.20.223:8080/StarMoviesHD/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 gtvg-name="ZooM" group-title="Music", ZooM Music
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/D9lSljIUFm.jpg", ZooM
 http://172.21.20.222:8080/sangeetbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 gtvg-name="9xM" group-title="Music", 9xM
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/ECDmL9mAdg.png", 9XM
 http://tv2.pantavat.com:8080/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/sF6b70KWQg.jpg", 9X Tashan - INT
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/5yBvkzYVCF.png", 9X Jalwa - INT
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/fJsypig_a3.jpg", 9X Jhakaas - INT
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", Party Universe - INT
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", Party Universe 2 - INT
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="Nature and Wildlife" tvg-logo="https://imglink.cc/cdn/XZacxxB3qv.jpg", PG WILD EARTH - INT
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Nature and Wildlife" tvg-logo="https://imglink.cc/cdn/nT0tlGaOOf.jpg", BBC EARTH - INT
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1 group-title="Nature and Wildlife" tvg-logo="https://imglink.cc/cdn/Iz0bQYJu7Z.jpg", ADVENTURE EARTH - INT
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8 
 
 
 
@@ -204,19 +226,19 @@ http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282026%29/Toy%20Story%205%
 #http://198.195.239.50:8095/ntv/tracks-v1a1/mono.m3u8
 #http://198.195.239.50:8095/deepto/tracks-v1a1/mono.m3u8
 #http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
-#http://198.195.239.50:8095/unt-s/video.m3u8
+#http://198.195.239.50:8095/unt-s/video.m3u8 DONE
 
 #New internet tv
-#https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
-#https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
-#https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8 DONE
+#https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8 DONE
+#https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8 DONE
+#https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8 DONE
+#https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8 DONE
 #https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
-#https://wildearth-plex.amagi.tv/master.m3u8
-#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-#https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
-#https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
+#https://wildearth-plex.amagi.tv/master.m3u8 DONE
+#https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8 DONE
+#https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8 DONE
+#https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8 DONE
 
 
 #New
@@ -226,10 +248,15 @@ http://172.16.50.14/DHAKA-FLIX-14/Animation%20Movies/%282026%29/Toy%20Story%205%
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
 #New
-#Mango
+#Mango 14.130.57.233
 #http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 DONE
+#http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1 DONE
 #http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #http://114.130.57.233:8080/T-Sports-KOS/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/Zee-Bangla/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#http://114.130.57.233:8080/StarJolsha/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+
 
 
 
