@@ -41,5 +41,41 @@ http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="DiGi FTP" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits
 http://172.18.18.18/hls/tv4.m3u8
 
-
-
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/CQHX5Acno9.jpg", KSA Quran TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/g2-FyJRhI5.png", AL JAZEERA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/WQMAgB4CL2.png", CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/mpYPj3GSEV.png", EKATTOR-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/j1A-ZquZtP.png", ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/CfKCzgc3OI.jpg", DBC NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/zu1PoTSys4.png", CHANNEL 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/X0aqhJMDse.png", DIPTO-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/Ai30HjqVkh.png", BANGLA VISION
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/TiKfUFor5l.jpg", NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/VPozU08NQa.png", MAASRANGA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/d-xxsIf0mH.jpg", CHANNEL I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/-cdQauKUEc.png", CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="", crazy_ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
