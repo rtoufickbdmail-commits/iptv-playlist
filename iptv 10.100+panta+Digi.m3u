@@ -94,10 +94,15 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
-#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex
-https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="", Buddystar
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="", Funnyjunior
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
+
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Sportslegends
 https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Flashguys
@@ -114,10 +119,7 @@ https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Luxell
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 group-title="AKASH" tvg-logo="", Buddystar
-https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 group-title="AKASH" tvg-logo="", Funnyjunior
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Crimes
 https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Truestories
