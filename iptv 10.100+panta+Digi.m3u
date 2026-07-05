@@ -17,8 +17,6 @@ http://10.100.100.100:8081/hls/3.m3u8
 http://198.195.239.50:8095/unt-s/video.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Ten.Hundred FTP" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV
 http://10.100.100.100:8081/hls/1.m3u8
 #EXTINF:-1 group-title="Ten.Hundred FTP" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSports
@@ -76,7 +74,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV
-
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
@@ -92,17 +89,16 @@ https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars
-https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Buddystar
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Funnyjunior
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Sportslegends
 https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Flashguys
@@ -119,7 +115,6 @@ https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Luxell
 https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Crimes
 https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Truestories
@@ -128,6 +123,72 @@ https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
 #EXTINF:-1 group-title="AKASH" tvg-logo="", Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/tsportshd3rd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/ptvsportshd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/bbc_world.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/SangeetBangla.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/9xm.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+http://172.19.17.230:8090/hls/NatGeoWild.m3u8
+
+
+
+
+
+
 
 
 
