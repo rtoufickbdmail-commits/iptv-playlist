@@ -187,7 +187,8 @@ http://172.19.17.230:8090/hls/NatGeoWild.m3u8
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://119.156.228.231:9983/stream/channelid/1997093479?ticket=DD6E030E0DE83C558360E413C47124E3869424C3&profile=pass
-
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
 
 
 
@@ -421,7 +422,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 
 
-https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
+
 
 
 
