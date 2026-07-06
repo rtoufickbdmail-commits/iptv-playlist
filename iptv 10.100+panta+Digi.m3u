@@ -200,7 +200,7 @@ http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
 http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://172.19.17.230:8090/hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://119.156.228.231:9983/stream/channelid/1997093479?ticket=DD6E030E0DE83C558360E413C47124E3869424C3&profile=pass
@@ -465,4 +465,5 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
 
+https://go.skym3u.top/rprk.m3u
 
