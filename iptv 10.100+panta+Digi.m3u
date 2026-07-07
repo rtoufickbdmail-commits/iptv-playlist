@@ -43,17 +43,17 @@ http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", BeinSports1ENG - NID
 http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
-https://nomawnoijl.gpcdn.net/BATASH/crazy_ex/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/e3ZPZe3VKJ.png", Sportslegends - AKA
-https://nomawnoijl.gpcdn.net/BATASH/sportslegends/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Ky7gpKlSnK.jpg", Flashguys - AKA
-https://nomawnoijl.gpcdn.net/BATASH/flashguys/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Sportrange - AKA
-https://nomawnoijl.gpcdn.net/BATASH/sportrange/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Thunder - AKA
-https://nomawnoijl.gpcdn.net/BATASH/thunder/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Fighter - AKA
-https://nomawnoijl.gpcdn.net/BATASH/fighter/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 
 
 =================ISLAMIC=================
@@ -63,35 +63,39 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
 
 
 =================MOVIES=================
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", JalshaMoviesHD - NID
+http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
 http://172.18.18.18/hls/tv4.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
-https://nomawnoijl.gpcdn.net/BATASH/cineedge/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", sonymaxhd - NID
+http://172.19.17.230:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
-https://nomawnoijl.gpcdn.net/BATASH/originals/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/JKwXGsw6Jl.png", Uniques - AKA
-https://nomawnoijl.gpcdn.net/BATASH/uniques/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/qYZEV194YF.png", Superrix - AKA
-https://nomawnoijl.gpcdn.net/BATASH/superrix/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/LRIkorgM3S.jpg", Screem - AKA
-https://nomawnoijl.gpcdn.net/BATASH/screem/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
 
 =================KIDS=================
-#EXTINF:-1 group-title="BATASH" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
-https://nomawnoijl.gpcdn.net/BATASH/nikky/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
-https://nomawnoijl.gpcdn.net/BATASH/joy/playlist.m3u8
+#EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
+https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/LRIkorgM3S.jpg", Buddystar - AKA
-https://nomawnoijl.gpcdn.net/BATASH/buddystar/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Funnyjunior - AKA
-https://nomawnoijl.gpcdn.net/BATASH/funnyjunior/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
+#EXTINF:-1 group-title="akash" tvg-logo="", Funnyjunior - AKA
+https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 
 
 =================NEWS=================
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24 - AKA
+#EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA TV - 10.100
 http://10.100.100.100:8081/hls/8.m3u8
@@ -99,6 +103,10 @@ http://10.100.100.100:8081/hls/8.m3u8
 http://172.18.18.18/hls/tv3.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA-TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", ALjazeeraNews - NID
+http://172.19.17.230:8090/hls/ALjazeeraNews.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", bbc_world - NID
+http://172.19.17.230:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/g2-FyJRhI5.png", AL JAZEERA - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/WQMAgB4CL2.png", CHANNEL 24 - AKA
@@ -117,6 +125,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 =================ENTERTAINMENT=================
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyAtth - NID
+http://172.19.17.230:8090/hls/SonyAtth.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", StarJalshaHD - NID
+http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyHD - NID
+http://172.19.17.230:8090/hls/SonyHD.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", ColorsHD - NID
+http://172.19.17.230:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", StarPlusHD
+http://172.19.17.230:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/zu1PoTSys4.png", CHANNEL 1 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/X0aqhJMDse.png", DIPTO-TV - AKA
@@ -143,18 +161,18 @@ http://172.19.17.230:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
 http://172.19.17.230:8090/hls/9xm.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars - AKA
-https://nomawnoijl.gpcdn.net/BATASH/kidsstars/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
-https://nomawnoijl.gpcdn.net/BATASH/partyuniverse/playlist.m3u8
+https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - INT
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/CAguYsE6Sc.png", JOUKLA RBR - INT
 https://vdo.pro-fhi.net:3228/stream/play.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6qvVtMg_hI.jpg", playtv  - INT
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BnF96weCil.png", pmchls - INT
 https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://88.212.15.19/live/mb_hits/index.m3u8
@@ -164,27 +182,21 @@ http://88.212.15.19/live/mb_sexy/index.m3u8
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="BATASH" tvg-logo="", luckyfamily
-https://nomawnoijl.gpcdn.net/BATASH/luckyfamily/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Delicious
-https://nomawnoijl.gpcdn.net/BATASH/delicious/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Luxell
-https://nomawnoijl.gpcdn.net/BATASH/luxell/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Crimes
-https://nomawnoijl.gpcdn.net/BATASH/crimes/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Truestories
-https://nomawnoijl.gpcdn.net/BATASH/truestories/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", intelligence
-https://nomawnoijl.gpcdn.net/BATASH/Intelligence/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Smarty
-https://nomawnoijl.gpcdn.net/BATASH/smarty/playlist.m3u8
+=================INFOTAINMENT=================
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Luxell
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Truestories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", intelligence
+https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 
 
 
@@ -199,24 +211,9 @@ https://nomawnoijl.gpcdn.net/BATASH/smarty/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/SonyAtth.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/StarJalshaHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/SonyHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/ColorsHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/sonymaxhd.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/StarPlusHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/ALjazeeraNews.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/bbc_world.m3u8
+
+
+
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
