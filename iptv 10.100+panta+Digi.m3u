@@ -42,6 +42,19 @@ http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
 http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", BeinSports1ENG - NID
 http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
+https://nomawnoijl.gpcdn.net/BATASH/crazy_ex/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/e3ZPZe3VKJ.png", Sportslegends - AKA
+https://nomawnoijl.gpcdn.net/BATASH/sportslegends/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Ky7gpKlSnK.jpg", Flashguys - AKA
+https://nomawnoijl.gpcdn.net/BATASH/flashguys/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="", Sportrange - AKA
+https://nomawnoijl.gpcdn.net/BATASH/sportrange/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="", Thunder - AKA
+https://nomawnoijl.gpcdn.net/BATASH/thunder/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="", Fighter - AKA
+https://nomawnoijl.gpcdn.net/BATASH/fighter/playlist.m3u8
+
 
 =================ISLAMIC=================
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/CQHX5Acno9.jpg", KSA Quran TV - AKA
@@ -133,7 +146,7 @@ http://172.19.17.230:8090/hls/9xm.m3u8
 https://nomawnoijl.gpcdn.net/BATASH/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
 https://nomawnoijl.gpcdn.net/BATASH/partyuniverse/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - AKA
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - INT
 http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -158,23 +171,6 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 
 
 
-
-
-
-
-
-#EXTINF:-1 group-title="BATASH" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex
-https://nomawnoijl.gpcdn.net/BATASH/crazy_ex/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Sportslegends
-https://nomawnoijl.gpcdn.net/BATASH/sportslegends/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Flashguys
-https://nomawnoijl.gpcdn.net/BATASH/flashguys/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Sportrange
-https://nomawnoijl.gpcdn.net/BATASH/sportrange/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Thunder
-https://nomawnoijl.gpcdn.net/BATASH/thunder/playlist.m3u8
-#EXTINF:-1 group-title="BATASH" tvg-logo="", Fighter
-https://nomawnoijl.gpcdn.net/BATASH/fighter/playlist.m3u8
 #EXTINF:-1 group-title="BATASH" tvg-logo="", luckyfamily
 https://nomawnoijl.gpcdn.net/BATASH/luckyfamily/playlist.m3u8
 #EXTINF:-1 group-title="BATASH" tvg-logo="", Delicious
