@@ -70,7 +70,7 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
 
 
 =================MOVIES=================
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", JalshaMoviesHD - NID
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
 http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
 http://172.18.18.18/hls/tv4.m3u8
