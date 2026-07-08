@@ -8,10 +8,6 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/gVgQ5oBamU.jpg", STAR-SPORTS-HD-10.100
-http://10.100.100.100:8081/hls/2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/akpmqDSuvW.png", SONY-SPORTS-1-10.100
-http://10.100.100.100:8081/hls/3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR-INT
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
@@ -30,10 +26,6 @@ http://172.19.17.230:8090/hls/StarSportsSelect1HD.m3u8
 http://172.19.17.230:8090/hls/StarSportsSelect2HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/k_Bcc2fWyc.png", StarSports2HD - NID
 http://172.19.17.230:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PW1_kpPhbL.jpg", SonyTen5HD - NID
-http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/vIotlzMh33.png", SonyTen2hd - NID
-http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", BeinSports1ENG - NID
 http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
@@ -52,12 +44,28 @@ https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 http://10.100.100.100:8081/hls/1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/8g-oJibv8H.jpg", Unite8 sports-198.195
 http://198.195.239.50:8095/unt-s/video.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/gVgQ5oBamU.jpg", STAR-SPORTS-HD-10.100
+http://10.100.100.100:8081/hls/2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/akpmqDSuvW.png", SONY-SPORTS-1-10.100
+http://10.100.100.100:8081/hls/3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PW1_kpPhbL.jpg", SonyTen5HD - NID
+http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/vIotlzMh33.png", SonyTen2hd - NID
+http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
 
 
 
 =================ISLAMIC=================
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/CQHX5Acno9.jpg", KSA Quran TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/3vyfn2La5K.png", islamic_tv - INT
+https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/-Bj4lulnaB.jpg", PeaceTvBangla - INT
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/stoeqGekPA.png", Makkahtv - INT
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/0gOHJB6iaH.jpg", Madina TV - INT
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 
 
 
@@ -240,10 +248,7 @@ https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
 
 
 https://go.skym3u.top/bdio.m3u
-https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv   islamic_tv
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA  PeaceTvBangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+
 http://15.235.185.236/hls/bhi.m3u8 BHI Channel Franch IP
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8   S Recoded
 https://live.cbntvusa.net/hls/cbntv/index.m3u8  CBN Tv USA
