@@ -75,10 +75,10 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
 http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
 http://172.18.18.18/hls/tv4.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - NID
 http://172.19.17.230:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
 https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/JKwXGsw6Jl.png", Uniques - AKA
@@ -96,11 +96,11 @@ https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/LRIkorgM3S.jpg", Buddystar - AKA
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="", Funnyjunior - AKA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/Tw1wtkWyUn.jpeg", Funnyjunior - AKA
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", DiscoveryKids  - NID
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/OlLz_iuMcQ.jpg", DiscoveryKids  - NID
 http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", CartoonNetworkHD - NID
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD - NID
 http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
 
 
