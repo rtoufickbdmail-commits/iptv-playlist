@@ -14,10 +14,6 @@ http://10.100.100.100:8081/hls/2.m3u8
 http://10.100.100.100:8081/hls/3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR-INT
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
-http://10.100.100.100:8081/hls/1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/8g-oJibv8H.jpg", Unite8 sports-198.195
-http://198.195.239.50:8095/unt-s/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
 http://172.19.17.230:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
@@ -26,8 +22,6 @@ http://172.19.17.230:8090/hls/tsportshd.m3u8
 http://172.19.17.230:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", Somoytv - NID
 http://172.19.17.230:8090/hls/somoytv.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV sportshd - NID
-http://172.19.17.230:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", ASportsHD - NID
 http://172.19.17.230:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/V0PWZwt59s.jpg", StarSportsSelect1HD - NID
@@ -54,6 +48,11 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", Fighter - AKA
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
+http://10.100.100.100:8081/hls/1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/8g-oJibv8H.jpg", Unite8 sports-198.195
+http://198.195.239.50:8095/unt-s/video.m3u8
+
 
 
 =================ISLAMIC=================
@@ -82,14 +81,18 @@ https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 
 
 =================KIDS=================
-#EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-#EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
 https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/LRIkorgM3S.jpg", Buddystar - AKA
 https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 group-title="akash" tvg-logo="", Funnyjunior - AKA
+#EXTINF:-1 group-title="KIDS" tvg-logo="", Funnyjunior - AKA
 https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", DiscoveryKids  - NID
+http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", CartoonNetworkHD - NID
+http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
 
 
 =================NEWS=================
@@ -97,6 +100,8 @@ https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 http://10.100.100.100:8081/hls/6.m3u8
 #EXTINF:-1 group-title="akash" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV NEWS - NID
+http://172.19.17.230:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA TV - 10.100
 http://10.100.100.100:8081/hls/8.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
@@ -119,6 +124,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
+
 
 
 
@@ -214,10 +220,7 @@ https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/CartoonNetworkHD.m3u8
+
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
 http://172.19.17.230:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
