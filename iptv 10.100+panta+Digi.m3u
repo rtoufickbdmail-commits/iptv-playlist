@@ -181,20 +181,14 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 =================MUSIC=================
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/721_n9jvyf.png", SangeetBangla - NID
 http://172.19.17.230:8090/hls/SangeetBangla.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
-http://172.19.17.230:8090/hls/9xm.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/lzxKeyR9HE.png", BHI Channel - INT
 http://15.235.185.236/hls/bhi.m3u8 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars - AKA
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - INT
-http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/CAguYsE6Sc.png", JOUKLA RBR - INT
-https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6qvVtMg_hI.jpg", playtv  - INT
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BnF96weCil.png", pmchls - INT
@@ -203,8 +197,15 @@ https://pmchls.wns.live/hls/stream.m3u8
 http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6Mf1HOhGad.jpeg", Sexy - INT
 http://88.212.15.19/live/mb_sexy/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/CAguYsE6Sc.png", JOUKLA RBR - INT
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/qcupDMS9lZ.jpg", Topestrada - INT
+http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/QTrQx-zFU-.jpg", Happyradio - INT
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
+http://172.19.17.230:8090/hls/9xm.m3u8
+
 
 
 =================INFOTAINMENT=================
