@@ -32,6 +32,8 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/-AH_uqdMEI.jpg", Fighters - AKA
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/ui5NGqUgRI.jpeg", Geo Super - INT
+http://119.156.228.231:9983/stream/channelid/1997093479?ticket=DD6E030E0DE83C558360E413C47124E3869424C3&profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
 http://10.100.100.100:8081/hls/1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/8g-oJibv8H.jpg", Unite8 sports-198.195
@@ -77,6 +79,10 @@ http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
 http://172.18.18.18/hls/tv4.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - NID
 http://172.19.17.230:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/D7a9byM75d.jpg", StarMoviesHD - NID
+http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/QjLdCqxaMA.png", AndPictureHD - NID
+http://172.19.17.230:8090/hls/AndPictureHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
@@ -87,6 +93,8 @@ https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FlGinOB93J.png", Screem - AKA
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+
+
 
 
 =================KIDS=================
@@ -175,6 +183,8 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 http://172.19.17.230:8090/hls/SangeetBangla.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
 http://172.19.17.230:8090/hls/9xm.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/lzxKeyR9HE.png", BHI Channel - INT
+http://15.235.185.236/hls/bhi.m3u8 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars - AKA
 https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
@@ -189,15 +199,17 @@ https://vdo.pro-fhi.net:3228/stream/play.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BnF96weCil.png", pmchls - INT
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/vCVAKLpZDW.jpeg", Hits - INT
 http://88.212.15.19/live/mb_hits/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6Mf1HOhGad.jpeg", Sexy - INT
 http://88.212.15.19/live/mb_sexy/index.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/QTrQx-zFU-.jpg", Happyradio - INT
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 
 
 =================INFOTAINMENT=================
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/2ucQE8vHR9.png", NatGeoWild - NID
+http://172.19.17.230:8090/hls/NatGeoWild.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily
 https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious
@@ -212,36 +224,21 @@ https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Smarty
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/AndPictureHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - NID
 http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://172.19.17.230:8090/hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-http://119.156.228.231:9983/stream/channelid/1997093479?ticket=DD6E030E0DE83C558360E413C47124E3869424C3&profile=pass
-#EXTINF:-1 group-title="Test Transmission" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", Test Transmission
-https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -250,7 +247,7 @@ https://book4u.top/worker/index.php?path=api/68b0f4e13e/playlist.m3u8
 
 https://go.skym3u.top/bdio.m3u
 
-http://15.235.185.236/hls/bhi.m3u8 BHI Channel Franch IP
+
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8   S Recoded
 https://live.cbntvusa.net/hls/cbntv/index.m3u8  CBN Tv USA
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8  deshitv24  USA
