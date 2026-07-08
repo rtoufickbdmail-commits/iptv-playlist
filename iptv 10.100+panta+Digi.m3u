@@ -10,35 +10,27 @@ http://172.18.18.18/hls/tv2.m3u8
 http://10.100.100.100:8081/hls/5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR-INT
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
-http://172.19.17.230:8090/hls/tsportshd3rd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.230:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.230:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", Somoytv - NID
-http://172.19.17.230:8090/hls/somoytv.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", ASportsHD - NID
-http://172.19.17.230:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/V0PWZwt59s.jpg", StarSportsSelect1HD - NID
 http://172.19.17.230:8090/hls/StarSportsSelect1HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/dDc26Wf069.jpg", StarSportsSelect2HD - NID
 http://172.19.17.230:8090/hls/StarSportsSelect2HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/k_Bcc2fWyc.png", StarSports2HD - NID
 http://172.19.17.230:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", BeinSports1ENG - NID
-http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
 https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/e3ZPZe3VKJ.png", Sportslegends - AKA
 https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Ky7gpKlSnK.jpg", Flashguys - AKA
 https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", Sportrange - AKA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/YBYY-O_x4F.jpeg", Sportrange - AKA
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", Thunder - AKA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PTxY7yFScN.jpg", Thunder - AKA
 https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", Fighter - AKA
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/-AH_uqdMEI.jpg", Fighters - AKA
 https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
 http://10.100.100.100:8081/hls/1.m3u8
@@ -52,6 +44,15 @@ http://10.100.100.100:8081/hls/3.m3u8
 http://172.19.17.230:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/vIotlzMh33.png", SonyTen2hd - NID
 http://172.19.17.230:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
+http://172.19.17.230:8090/hls/tsportshd3rd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", Somoytv - NID
+http://172.19.17.230:8090/hls/somoytv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", ASportsHD - NID
+http://172.19.17.230:8090/hls/ASportsHD.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/zoRz80KOzW.png", BeinSports1ENG - NID
+http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
+
 
 
 
