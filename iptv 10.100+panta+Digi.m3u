@@ -12,8 +12,6 @@ http://10.100.100.100:8081/hls/1.m3u8
 http://10.100.100.100:8081/hls/2.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA TV - 10.100
-http://10.100.100.100:8081/hls/8.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
 http://172.18.18.18/hls/tv3.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
@@ -22,8 +20,5 @@ http://172.18.18.18/hls/tv4.m3u8
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/KSbRR2ppEK.png", Sun Bangla - Ayna
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
-
 
 
