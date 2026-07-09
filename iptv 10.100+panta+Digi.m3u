@@ -8,8 +8,10 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR-INT
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR - INT
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/RV4J8YS1A5.jpg", MahsunSports - INT
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.230:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
@@ -131,6 +133,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/CfKCzgc3OI.jpg", DBC NEWS - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/H9VRu7K7sw.jpg", Independent TV - AKA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
@@ -338,7 +343,7 @@ https://book4u.top/worker/index.php?path=api/b45f637d05/playlist.m3u8   sony yah
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/rajdhani_tv
 https://book4u.top/worker/index.php?path=api/63785f090e/playlist.m3u8  zee cinema
-https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv 
+ 
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/movie_bangla
 https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8  ekhon tv
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/anandatv
