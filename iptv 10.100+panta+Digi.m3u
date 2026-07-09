@@ -284,8 +284,13 @@ http://172.19.17.230:8090/hls/9xm.m3u8
 
 
 =================Best Movies to Stream=================
-#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/XXRlte7rve.jpg", Superman (2025) 720p Dual Audio
-http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282025%29/Superman%20%282025%29%20720p%20%5BDual%20Audio%5D/Superman%20%282025%29%20720p%20BluRay%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/QuQGp0fKKs.jpg", One Battle After Another (2025) 
+http://172.22.22.22/data/disk-1/Movies/hollywood/2025/One%20Battle%20After%20Another%20(2025)/One.Battle.After.Another.2025.720p.WEBRip.x264.AAC-[YTS.MX].mp4
+#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/Pms_oOOBjQ.jpg", Jurassic World: Rebirth (2025)
+http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Jurassic%20World%20Rebirth%20(2025)/Jurassic.World.Rebirth.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/rdxJcI3ryg.jpg", Thunderbolts* (2025)
+http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thunderbolts%20(2025).mp4
+
 
 
 
