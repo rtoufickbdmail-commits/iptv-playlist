@@ -173,6 +173,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/KSbRR2ppEK.png", Sun Bangla - Ayna
+http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/126098
 
 
 
@@ -199,6 +201,8 @@ https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/vVMcok-6Gu.png", Moviebanglatv - INT
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/fnmN6TrksZ.png", rongeentv - INT
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 
 
@@ -221,7 +225,11 @@ https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
 https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - NID
 http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
-
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/B4r3Hbwhkr.jpg", fashion one tv - INT
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/B4r3Hbwhkr.jpg", Digital fashion tv - INT
+http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 
 
 
@@ -255,6 +263,7 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/QTrQx-zFU-.jpg", Happyradio - INT
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
+https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 http://172.19.17.230:8090/hls/9xm.m3u8
 
 
