@@ -79,29 +79,6 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
 
 
 
-=================MOVIES=================
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
-http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
-http://172.18.18.18/hls/tv4.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - NID
-http://172.19.17.230:8090/hls/sonymaxhd.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/D7a9byM75d.jpg", StarMoviesHD - NID
-http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/QjLdCqxaMA.png", AndPictureHD - NID
-http://172.19.17.230:8090/hls/AndPictureHD.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
-https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/JKwXGsw6Jl.png", Uniques - AKA
-https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/qYZEV194YF.png", Superrix - AKA
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FlGinOB93J.png", Screem - AKA
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/vVMcok-6Gu.png", Moviebanglatv - INT
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 
 
@@ -199,6 +176,56 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 
 
+=================MOVIES=================
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
+http://172.19.17.230:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
+http://172.18.18.18/hls/tv4.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - NID
+http://172.19.17.230:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/D7a9byM75d.jpg", StarMoviesHD - NID
+http://172.19.17.230:8090/hls/StarMoviesHD.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/QjLdCqxaMA.png", AndPictureHD - NID
+http://172.19.17.230:8090/hls/AndPictureHD.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
+https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
+https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/JKwXGsw6Jl.png", Uniques - AKA
+https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/qYZEV194YF.png", Superrix - AKA
+https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FlGinOB93J.png", Screem - AKA
+https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/vVMcok-6Gu.png", Moviebanglatv - INT
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+
+
+=================INFOTAINMENT=================
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/2ucQE8vHR9.png", NatGeoWild - NID
+http://172.19.17.230:8090/hls/NatGeoWild.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily
+https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious
+https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Luxell
+https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Crimes
+https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Truestories
+https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", intelligence
+https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Smarty
+https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - NID
+http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
+
+
+
+
+
 
 =================MUSIC=================
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/721_n9jvyf.png", SangeetBangla - NID
@@ -229,28 +256,6 @@ http://live.topestrada.com/live/topestrada/playlist.m3u8
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
 http://172.19.17.230:8090/hls/9xm.m3u8
-
-
-
-=================INFOTAINMENT=================
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/2ucQE8vHR9.png", NatGeoWild - NID
-http://172.19.17.230:8090/hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily
-https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious
-https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Luxell
-https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Crimes
-https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Truestories
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", intelligence
-https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Smarty
-https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/kZHa_6S4TJ.jpg", DiscoveryHD - NID
-http://172.19.17.230:8090/hls/DiscoveryHD.m3u8
 
 
 
