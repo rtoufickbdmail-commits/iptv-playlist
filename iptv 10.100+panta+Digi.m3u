@@ -68,7 +68,8 @@ http://172.19.17.230:8090/hls/BeinSports1ENG.m3u8
 
 =================ISLAMIC=================
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/CQHX5Acno9.jpg", KSA Quran TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/1713.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/CQHX5Acno9.jpg", KSA Quran TV - INT
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/-Bj4lulnaB.jpg", PeaceTvBangla - INT
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
@@ -135,6 +136,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/H9VRu7K7sw.jpg", Independent TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/H9VRu7K7sw.jpg", Independent TV - INT
 https://ftp.assadikb.workers.dev/stream.m3u8?id=independent_tv
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
@@ -143,6 +145,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709.m3u8
 
 
 =================ENTERTAINMENT=================
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV - AKA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", SonyAtth - NID
@@ -168,12 +172,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/VPozU08NQa.png", MAASRANGA - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/VPozU08NQa.png", MAASRANGA - INT
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/d-xxsIf0mH.jpg", CHANNEL I - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/-cdQauKUEc.png", CHANNEL 9 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IZFrxT2rYT.jpg", Ekusey TV - BDCOM
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Desh tv - AKA
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
@@ -356,7 +364,7 @@ https://ftp.assadikb.workers.dev/stream.m3u8?id=/bijoytv
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/mohona_tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=desh_tv
-https://mtv.sunplex.live/MAASRANGA/index.m3u8 
+ 
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://ekusheyserver.com/etvlivesn.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_i
