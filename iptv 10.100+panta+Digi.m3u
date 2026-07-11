@@ -20,5 +20,7 @@ http://172.18.18.18/hls/tv4.m3u8
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 
 
