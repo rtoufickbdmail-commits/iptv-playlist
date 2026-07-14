@@ -9,6 +9,8 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://10.100.100.100:8081/hls/5.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSports - Digi
 http://172.18.18.18/hls/tv2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/CT3o2vMzDg.jpg", Sports - bdix
+http://103.165.93.31:8095/unt-s/video.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
 http://10.100.100.100:8081/hls/1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/gVgQ5oBamU.jpg", STAR-SPORTS-HD-10.100
