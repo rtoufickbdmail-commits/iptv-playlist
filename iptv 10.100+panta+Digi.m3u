@@ -13,20 +13,49 @@ http://10.100.100.100:8081/hls/5.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.139:8090/hls/bbc_world.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.139:8090/hls/tntsports1hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.139:8090/hls/tsportshd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR - INT
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/yoNWgROBjB.png", TAPMAD - INT
 https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 01 - 100.2
+http://100.100.100.10/hls/sn3.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 02 - 100.2
+http://100.100.100.10/hls/sn4.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 03 - 100.2
+http://100.100.100.10/hls/sn5.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 04 - 100.2
+http://100.100.100.10/hls/sn7.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 05 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_1&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 06 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_2&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 07 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_1&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 08 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_2&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 09 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 10 - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_channel1&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 11 - 100.2
+http://100.100.100.2/flussonic/7srv.php?stream=star_sports_select_2&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 11 - 100.2
+http://100.100.100.2/flussonic/7srv.php?stream=tsports_bengal&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 12 - 100.2
+http://100.100.100.2/flussonic/8srv.php?stream=ptv_sports_hd&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_jT1RfLj6b.jpg", FIFA 13 - 100.2
+http://100.100.100.2/flussonic/11srv.php?stream=zee_bangla_cinema&format=m3u8
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR - INT
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 
