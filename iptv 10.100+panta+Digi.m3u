@@ -9,7 +9,7 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", tsports - 100.2
+#EXTINF:-1 group-title="Sports" tvg-logo="", Unite8 - 100.2
 http://100.100.100.2/flussonic/7srv.php?stream=tsports_bengal&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd3rd - NID
 http://172.19.17.202:8090/hls/tsportshd3rd.m3u8
