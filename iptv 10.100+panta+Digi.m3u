@@ -49,41 +49,7 @@ http://27.124.71.27/Willow_Extra/index.m3u8
 http://119.156.228.231:9983/stream/channelid/1997093479?ticket=DD6E030E0DE83C558360E413C47124E3869424C3&profile=pass
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR 1080p - INT
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR - INT
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/yoNWgROBjB.png", TAPMAD - INT
-https://seriealeague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/yoNWgROBjB.png", TAPMAD 2 - INT
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8
 
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="", reserved - 100.2
-http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_2&format=m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", reserved2 - 100.2
-http://100.100.100.2/flussonic/20srv.php?stream=fifa_sn_1&format=m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", reserved3 - 100.2
-http://100.100.100.10/hls/sn3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/V0PWZwt59s.jpg", StarSportsSelect1HD - NID
-http://172.19.17.202:8090/hls/StarSportsSelect1HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/dDc26Wf069.jpg", StarSportsSelect2HD - NID
-http://172.19.17.202:8090/hls/StarSportsSelect2HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/k_Bcc2fWyc.png", StarSports2HD - NID
-http://172.19.17.202:8090/hls/StarSports2HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/zoRz80KOzW.png", BeinSports8ENG - INT
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/gVgQ5oBamU.jpg", STAR-SPORTS-HD-10.100
-http://10.100.100.100:8081/hls/2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/akpmqDSuvW.png", SONY-SPORTS-1-10.100
-http://10.100.100.100:8081/hls/3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PW1_kpPhbL.jpg", SonyTen5HD - NID
-http://172.19.17.202:8090/hls/SonyTen5HD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/vIotlzMh33.png", SonyTen2hd - NID
-http://172.19.17.202:8090/hls/SonyTen2hd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/exlnCtVS8a.png", ASportsHD - NID
-http://172.19.17.202:8090/hls/ASportsHD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/zoRz80KOzW.png", BeinSports1ENG - NID
-http://172.19.17.202:8090/hls/BeinSports1ENG.m3u8
 
 
 
@@ -97,9 +63,13 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/-Bj4lulnaB.jpg", PeaceTvBangla - INT
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/-Bj4lulnaB.jpg", PeaceTvBangla - 100.2
+http://100.100.100.2/flussonic/13srv.php?stream=peace_tv_bangla&format=m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/3vyfn2La5K.png", islamic_tv - INT
 https://stream.ottplus.bd/live/islamic_tv/index.m3u8
   #https://ftp.assadikb.workers.dev/stream.m3u8?id=/islamic_tv
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/z5gwVEAdeu.jpg", madani_tv - 100.2
+http://100.100.100.2/flussonic/13srv.php?stream=madani_tv_hd&format=m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/stoeqGekPA.png", Makkahtv - INT
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/0gOHJB6iaH.jpg", Madina TV - INT
@@ -108,6 +78,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 
 =================KIDS=================
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/EUh1S11Qli.png", duranta_tv - 100.2
+http://100.100.100.2/flussonic/13srv.php?stream=duranta_tv&format=m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
@@ -236,6 +208,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/CCPTIw-daf.jpg", Ekhon tv - ottp
 https://book4u.top/worker/index.php?path=api/0456773b8a/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/7QTGocxbDU.png", my_tv - 100.2
+http://100.100.100.2/flussonic/9srv.php?stream=my_tv&format=m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/rUtz42DqQr.png", gtv - 100.2
+http://100.100.100.2/flussonic/9srv.php?stream=gtv&format=m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/xrUxU2kjxl.png", nexus_tv - ottp
 https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IKug5r0-p6.png", Boishakhitv - ottp
