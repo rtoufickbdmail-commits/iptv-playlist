@@ -11,6 +11,8 @@ http://10.100.100.100:8081/hls/4.m3u8
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/lS_eK305l2.jpg", star_sports_2-10.100
+http://100.100.100.2/flussonic/8srv.php?stream=star_sports_2_hd&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Xu1WBTL11h.jpg", a-sports - 100.2
 http://100.100.100.2/flussonic/7srv.php?stream=asports&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/s9QyRLh-RQ.jpg", Unite8 - 100.2
