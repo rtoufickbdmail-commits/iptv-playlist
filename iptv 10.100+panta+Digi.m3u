@@ -112,16 +112,12 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", Somoytv - NID
-http://172.19.17.202:8090/hls/somoytv.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24 - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/NLIOZb6fHC.jpg", Star News - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA TV - 10.100
-http://10.100.100.100:8081/hls/8.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
 http://172.18.18.18/hls/tv3.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA-TV - AKA
@@ -138,7 +134,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/g2-FyJRhI5.png", AL JAZEERA - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/uMEigoJOmw.png", bbc_world - NID
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV NEWS - NID
 http://172.19.17.202:8090/hls/ptvsportshd.m3u8
@@ -154,10 +150,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 =================ENTERTAINMENT=================
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV-10.100
-http://10.100.100.100:8081/hls/1.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - Digi
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - INT
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - 100.2
+http://100.100.100.2/flussonic/7srv.php?stream=star_jalsha&format=m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - 100.2
