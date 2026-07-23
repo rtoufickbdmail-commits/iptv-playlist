@@ -228,7 +228,7 @@ http://100.100.100.2/flussonic/11srv.php?stream=jalsha_movies_hd&format=m3u8
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", zee_bangla_cinema - 100.2
 http://100.100.100.2/flussonic/11srv.php?stream=zee_bangla_cinema&format=m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/3SYaMvb4e3.png", HBO-Hits - Digi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/Q7E9U2vOix.png", cinemax hd - Digi
 http://172.18.18.18/hls/tv4.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FzXrxCs642.png", sonymaxhd - 100.2
 http://100.100.100.2/flussonic/12srv.php?stream=sony_max&format=m3u8
