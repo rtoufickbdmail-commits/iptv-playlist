@@ -13,12 +13,12 @@ http://172.18.18.18/hls/tv2.m3u8
 http://172.19.17.202:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/lS_eK305l2.jpg", star_sports_2-10.100
 http://100.100.100.2/flussonic/8srv.php?stream=star_sports_2_hd&format=m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="", tsports - 100.2
+http://100.100.100.2/flussonic/20srv.php?stream=fifa_channel1&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Xu1WBTL11h.jpg", a-sports - 100.2
 http://100.100.100.2/flussonic/7srv.php?stream=asports&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/s9QyRLh-RQ.jpg", Unite8 - 100.2
 http://100.100.100.2/flussonic/7srv.php?stream=tsports_bengal&format=m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", tsports - 100.2
-http://100.100.100.2/flussonic/20srv.php?stream=fifa_channel1&format=m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", PTV - Janany
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", PTV - 100.2
@@ -98,6 +98,8 @@ https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/cDEv-rzvhR.jpg", Sony YAY - ottp
 https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/cDEv-rzvhR.jpg", Sony YAY - ottp
+https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
   #http://100.100.100.2/flussonic/13srv.php?stream=sony_yay&format=m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/xKtyydwVCa.png", zbcatun - INT
 https://server.zillarbarta.com/zbcatun/video.m3u8
@@ -205,6 +207,8 @@ http://100.100.100.2/flussonic/7srv.php?stream=nagorik_tv&format=m3u8
 http://100.100.100.2/flussonic/9srv.php?stream=my_tv&format=m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/rUtz42DqQr.png", gtv - 100.2
 http://100.100.100.2/flussonic/9srv.php?stream=gtv&format=m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/R2xLicwByK.jpg", rajdhani tv - 100.2
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/xrUxU2kjxl.png", nexus_tv - 100.2
 http://100.100.100.2/flussonic/9srv.php?stream=nexus_tv&format=m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
@@ -224,6 +228,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - 100.2
 http://100.100.100.2/flussonic/11srv.php?stream=jalsha_movies_hd&format=m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - INT
+https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/WTsGoBz4tI.jpg", Sananda TV- INT
 https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", zee_bangla_cinema - 100.2
@@ -384,5 +390,5 @@ http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thun
 
 =================m3u Ling=================
 http://100.100.100.2/iptv.m3u8 LOCAL
-
+https://go.skym3u.top/qmoy.m3u
 
