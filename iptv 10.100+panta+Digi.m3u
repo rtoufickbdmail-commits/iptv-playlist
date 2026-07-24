@@ -108,9 +108,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 =================NEWS=================
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV - AKA
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV - AKA
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV-10.100
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV-10.100
 http://10.100.100.100:8081/hls/5.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
@@ -148,7 +148,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 
 =================ENTERTAINMENT=================
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
