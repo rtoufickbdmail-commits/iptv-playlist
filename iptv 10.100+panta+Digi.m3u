@@ -58,6 +58,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 http://10.100.100.100:8081/hls/6.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
 http://172.18.18.18/hls/tv3.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", ATN News - ayna
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Pakistan Entertainment - NID
@@ -71,8 +73,12 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 
 =================ENTERTAINMENT=================
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV - R
+https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=0d8006a80df69de1df5c67377cb7d860ef9075f6-7d8f6a55777d77be0da0e21ed07a8b46-1786635512-1786624712
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", BTV News - R
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - INT
@@ -89,8 +95,8 @@ https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/0d_yENP3dj.jpg", SRK-TV - AKA
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", ATN Bangla - AKA
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
 
 
