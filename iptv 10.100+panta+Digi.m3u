@@ -3,27 +3,12 @@
 
 
 =================SPORTS=================
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/z_37Gdf2AQ.jpg", Unite8-10.100
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Nagorik-10.100
 http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSports-10.100
-http://10.100.100.100:8081/hls/4.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSports - Digi
+#EXTINF:-1 group-title="Sports" tvg-logo="", Vung Vang - Digi
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/_he_1uYtIs.png", crazy_ex - AKA
-https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/e3ZPZe3VKJ.png", Sportslegends - AKA
-https://nomawnoijl.gpcdn.net/akash/sportslegends/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Ky7gpKlSnK.jpg", Flashguys - AKA
-https://nomawnoijl.gpcdn.net/akash/flashguys/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/YBYY-O_x4F.jpeg", Sportrange - AKA
-https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/PTxY7yFScN.jpg", Thunder - AKA
-https://nomawnoijl.gpcdn.net/akash/thunder/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/-AH_uqdMEI.jpg", Fighters - AKA
-https://nomawnoijl.gpcdn.net/akash/fighter/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/UYlPYGqAAL.png", DD SPORTS - AKA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/Wijhdfm_37.png", Caze_TV_BR 1080p - INT
@@ -31,12 +16,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 
 
-
-
-
-
 =================ISLAMIC=================
-
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://imglink.cc/cdn/-Bj4lulnaB.jpg", PeaceTvBangla - INT
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
@@ -53,14 +33,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 =================KIDS=================
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/tt1qVYYbbz.jpg", nikky - AKA
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/HrFLymYqfU.png", Joy - AKA
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/LRIkorgM3S.jpg", Buddystar - AKA
-https://nomawnoijl.gpcdn.net/akash/buddystar/playlist.m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/Tw1wtkWyUn.jpeg", Funnyjunior - AKA
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/C9Ycw_SlBV.jpg", zoomoonz - INT
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD - NID
