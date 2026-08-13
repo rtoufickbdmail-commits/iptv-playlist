@@ -79,7 +79,6 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - NID
 http://172.19.17.202:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - ottp
@@ -100,46 +99,24 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 =================MOVIES=================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - INT
-https://live.shamim-iptv.workers.dev/JALSHAMOVIESHD.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
 http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="", Sananda TV - INT
 http://27.124.71.27/Willow_Extra/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/WTsGoBz4tI.jpg", Sananda TV- INT
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/Q7E9U2vOix.png", cinemax hd - Digi
 http://172.18.18.18/hls/tv4.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/HCsCaBI2yU.jpg", sonymax2 - ottp
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/wE0iCDKpGl.jpg",  goldmines hindi - ottp
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/D7a9byM75d.jpg", StarMoviesHD - NID
 http://172.19.17.202:8090/hls/StarMoviesHD.m3u8
-
-
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/8F77qdotji.png", Cineedge - AKA
-https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/d4nO5uqyGl.jpg", Originals - AKA
-https://nomawnoijl.gpcdn.net/akash/originals/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/JKwXGsw6Jl.png", Uniques - AKA
-https://nomawnoijl.gpcdn.net/akash/uniques/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/qYZEV194YF.png", Superrix - AKA
-https://nomawnoijl.gpcdn.net/akash/superrix/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/FlGinOB93J.png", Screem - AKA
-https://nomawnoijl.gpcdn.net/akash/screem/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/vVMcok-6Gu.png", Moviebanglatv - INT
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/igcmOVh3ER.png", Action Hollywood Movies - INT
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb20e13db64a9e50149c32643fa83439fd501b2868153834bd725a4179f97f78fd242d7e4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670362b8a32d9f47b68daa5fc98681f5dd40f0651566967c26921b36/44/1280x720_2657600/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/fnmN6TrksZ.png", rongeentv - INT
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/C3x0w1qq-3.png", Mytime movie network - INT
 https://mytime-tcl.amagi.tv/playlist.m3u8
 
@@ -159,20 +136,6 @@ https://stream.ottplus.bd/live/id_hd_abr/live/id_hd/chunks.m3u8
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/ih72aH3ecL.png", Outdoor tv nz - INT
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", luckyfamily - AKA
-https://nomawnoijl.gpcdn.net/akash/luckyfamily/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Delicious - AKA
-https://nomawnoijl.gpcdn.net/akash/delicious/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Luxell - AKA
-https://nomawnoijl.gpcdn.net/akash/luxell/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Crimes - AKA
-https://nomawnoijl.gpcdn.net/akash/crimes/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Truestories - AKA
-https://nomawnoijl.gpcdn.net/akash/truestories/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", intelligence - AKA
-https://nomawnoijl.gpcdn.net/akash/Intelligence/playlist.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="", Smarty - AKA
-https://nomawnoijl.gpcdn.net/akash/smarty/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/B4r3Hbwhkr.jpg", fashion one tv - INT
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/B4r3Hbwhkr.jpg", fashion one tv - INT
@@ -187,10 +150,8 @@ http://115.187.41.216:8080/hls/digitalfashion/index.m3u8
 =================MUSIC=================
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/721_n9jvyf.png", SangeetBangla - NID
 http://172.19.17.202:8090/hls/SangeetBangla.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/GT6KOi375U.jpg", Deewana - NID
 https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
-
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/McxPaDO-P1.jpg", Zoom - INT
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/2FQ1YrWwlE.png", yrf music - INT
@@ -199,10 +160,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
 http://172.19.17.202:8090/hls/9xm.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BE1gdlPlcm.jpg", kidsstars - AKA
-https://nomawnoijl.gpcdn.net/akash/kidsstars/playlist.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/FQXpxoOtFr.png", partyuniverse - AKA
-https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6qvVtMg_hI.jpg", playtv  - INT
@@ -250,12 +207,7 @@ https://stream.spicefmbd.com/stream.m3u8
 
 
 =================Best Movies to Stream=================
-#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/QuQGp0fKKs.jpg", One Battle After Another (2025) 
-http://172.22.22.22/data/disk-1/Movies/hollywood/2025/One%20Battle%20After%20Another%20(2025)/One.Battle.After.Another.2025.720p.WEBRip.x264.AAC-[YTS.MX].mp4
-#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/Pms_oOOBjQ.jpg", Jurassic World: Rebirth (2025)
-http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Jurassic%20World%20Rebirth%20(2025)/Jurassic.World.Rebirth.2025.1080p.WEBRip.x264.AAC5.1-[YTS.MX].mp4
-#EXTINF:-1 group-title="Best Movies to Stream Hare" tvg-logo="https://imglink.cc/cdn/rdxJcI3ryg.jpg", Thunderbolts* (2025)
-http://172.22.22.22/data/disk-1/Movies/hollywood/2025/Thunderbolts%20(2025)/Thunderbolts%20(2025).mp4
+
 
 
 
