@@ -62,14 +62,13 @@ http://10.100.100.100:8081/hls/6.m3u8
 http://172.18.18.18/hls/tv3.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV NEWS - NID
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Pakistan Entertainment - NID
 http://172.19.17.202:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/HkLi5YsMoQ.jpg", Press TV Iran - INT
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/wcVFXNkEei.png", Iran International(EN) - INT
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/jazhr4FaZc.jpeg", SANGSAD-TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 
 
 
