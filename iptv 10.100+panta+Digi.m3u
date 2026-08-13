@@ -46,8 +46,6 @@ https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/cDEv-rzvhR.jpg", Sony YAY - ottp
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
   #http://100.100.100.2/flussonic/13srv.php?stream=sony_yay&format=m3u8
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/xKtyydwVCa.png", zbcatun - INT
-https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/oCOWeBEMHc.jpg", Gopal Var TV- INT
 https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
@@ -55,31 +53,13 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 =================NEWS=================
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/JkEHEvFSCE.png", SOMOY TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/XDkLZRfn93.png", NEWS 24 - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/NLIOZb6fHC.jpg", Star News - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
 http://172.18.18.18/hls/tv3.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JAMUNA-TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/WQMAgB4CL2.png", CHANNEL 24 - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/mpYPj3GSEV.png", EKATTOR-TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j1A-ZquZtP.png", ATN NEWS - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/CfKCzgc3OI.jpg", DBC NEWS - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/H9VRu7K7sw.jpg", Independent TV - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/g2-FyJRhI5.png", AL JAZEERA - AKA
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/j5j7hs6aLj.jpg", PTV NEWS - NID
