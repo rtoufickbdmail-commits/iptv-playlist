@@ -58,6 +58,8 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://172.19.17.202:8090/hls/CartoonNetworkHD.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD - ottp
 https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/NmGDgFQ4M8.png", CartoonNetworkHD -  a
+https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/Hf4HNocggU.png", toon goggles - INT
 https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://imglink.cc/cdn/cDEv-rzvhR.jpg", Sony YAY - ottp
@@ -194,14 +196,8 @@ https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 http://172.19.17.202:8090/hls/9xm.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="", Albania Music
 https://albportal.net/albkanalemusic.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6qvVtMg_hI.jpg", playtv  - INT
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/BnF96weCil.png", pmchls - INT
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/vCVAKLpZDW.jpeg", Hits - INT
-http://88.212.15.19/live/mb_hits/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6Mf1HOhGad.jpeg", Sexy - INT
 http://88.212.15.19/live/mb_sexy/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/kwEB-VXsYK.jpg", VevoHipHopRB_GB - INT
@@ -240,11 +236,16 @@ https://stream.spicefmbd.com/stream.m3u8
 
 
 
-=================Best Movies to Stream=================
+=================Slow Channel=================
 
 
 
-
+Totalmusic - INT
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+playtv  - INT
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+Hits - INT
+http://88.212.15.19/live/mb_hits/index.m3u8
 
 
 =================m3u Ling=================
