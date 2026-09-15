@@ -3,9 +3,8 @@
 
 
 =================SPORTS=================
-#EXTINF:-1 group-title="NEWS" tvg-logo="", Nagorik-10.100
-http://10.100.100.100:8081/hls/5.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="", Vung Vang - Digi
+
+#EXTINF:-1 group-title="Sports" tvg-logo="", tsportshd - Digi
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
@@ -74,6 +73,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 =================NEWS=================
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Nagorik-10.100
+http://10.100.100.100:8081/hls/5.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", BTV News - Ayn
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
