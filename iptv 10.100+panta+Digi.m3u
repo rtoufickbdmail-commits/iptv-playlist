@@ -79,6 +79,8 @@ http://10.100.100.100:8081/hls/6.m3u8
 http://172.18.18.18/hls/tv3.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", ATN News - ayna
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Somoy News - ayna
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Pakistan Entertainment - NID
@@ -104,6 +106,8 @@ https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Sun-Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - NID
 http://172.19.17.202:8090/hls/SonyAtth.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/sxTGA4mrpB.jpg", SonyAtth - ottp
@@ -188,6 +192,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/jVFH9B_pWF.jpg", 9xm - NID
 http://172.19.17.202:8090/hls/9xm.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="", Albania Music
+https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/UJiq1qz3gZ.jpg", Totalmusic - INT
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://imglink.cc/cdn/6qvVtMg_hI.jpg", playtv  - INT
