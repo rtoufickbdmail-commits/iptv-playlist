@@ -74,15 +74,20 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
 
 
 =================NEWS=================
-
+#EXTINF:-1 group-title="NEWS" tvg-logo="", BTV News - Ayn
+https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/6ppkyqzDuI.jpg", NEWS24 - 10.100
 http://10.100.100.100:8081/hls/6.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", JamunaTV - Digi
 http://172.18.18.18/hls/tv3.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="", DBC News - ayn
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/40pPWgU-RC.jpg", ATN News - ayna
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Somoy News - ayna
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Ekkator - ayna
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://imglink.cc/cdn/W1snCrPL0U.jpeg", bbc_world - NID
 http://172.19.17.202:8090/hls/bbc_world.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Pakistan Entertainment - NID
@@ -100,8 +105,6 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=0d8006a80df69de1df5c67377cb7d860ef9075f6-7d8f6a55777d77be0da0e21ed07a8b46-1786635512-1786624712
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", BTV News - R
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - INT
@@ -122,13 +125,30 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", ATN Bangla - Ayn
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Asian TV - Ayn
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Boishakhi - Ayn
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Channel i - Ayn
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", N TV - Ayn
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Bangla Vision - Ayn
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Channel i - Ayn
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Dipto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", DESH TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Ananda TV - Ayn
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Bijoy TV - OTt
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Bangla TV - Ayn
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 =================MOVIES=================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
