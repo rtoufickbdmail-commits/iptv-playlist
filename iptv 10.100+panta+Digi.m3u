@@ -102,8 +102,7 @@ https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 
 =================ENTERTAINMENT=================
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTV - R
-https://edge2.roarzone.net:8447/roarzone/edge1/3/index.m3u8?token=0d8006a80df69de1df5c67377cb7d860ef9075f6-7d8f6a55777d77be0da0e21ed07a8b46-1786635512-1786624712
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/LtRuWf8bLc.jpg", BTVNationalHD - NID
 http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/fd5M6j19Y3.png", G series Drama - Ayna
@@ -170,7 +169,7 @@ http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/WTsGoBz4tI.jpg", Sananda TV- INT
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/Q7E9U2vOix.png", cinemax hd - Digi
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/Q7E9U2vOix.png", Movie - Digi
 http://172.18.18.18/hls/tv4.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/HCsCaBI2yU.jpg", sonymax2 - ottp
 https://stream.ottplus.bd/live/max_2_abr/index.m3u8
@@ -284,3 +283,5 @@ http://100.100.100.2/iptv.m3u8 LOCAL
 https://go.skym3u.top/qmoy.m3u
 
 https://go.skym3u.dev/8pgc.m3u?t=3561&s=506
+
+https://go.skym3u.dev/sa36.m3u.m3u?t=4348&s=436
