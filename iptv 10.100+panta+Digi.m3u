@@ -6,6 +6,9 @@
 
 #EXTINF:-1 group-title="Sports" tvg-logo="", tsportshd - Digi
 http://172.18.18.18/hls/tv2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="", ptv sports - mazic
+http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/UYlPYGqAAL.png", DD SPORTS - AKA
@@ -81,6 +84,9 @@ https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Somoy News - ayna
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="", Somoy News - mazic
+http://cdn.moviemazic.xyz:8083/SomoyTv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Ekkator - ayna
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="", Jago news
