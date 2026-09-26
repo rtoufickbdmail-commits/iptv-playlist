@@ -55,6 +55,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://box.bbaria.net/DurontoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="", NICK BANGLA 
 http://198.195.239.50:8095/nick/index.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="", SONIC BANGLA 
+http://198.195.239.50:8095/sonic/index.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="", POGO
 https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
