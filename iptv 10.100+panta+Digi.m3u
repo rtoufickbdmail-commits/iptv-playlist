@@ -219,6 +219,8 @@ https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8
 https://stream.ottplus.bd/live/animal_planet_hd_abr/live/animal_planet_hd/chunks.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/UCclHzRphl.jpg", ID HD - ottp
 https://stream.ottplus.bd/live/id_hd_abr/live/id_hd/chunks.m3u8
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/UCclHzRphl.jpg", Love Natural - INT
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/FIiLuSzO7T.jpg", Sony bbc_earth_hd - ottp
 https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
 #EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://imglink.cc/cdn/ih72aH3ecL.png", Outdoor tv nz - INT
