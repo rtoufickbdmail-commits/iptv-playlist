@@ -8,7 +8,8 @@
 http://172.18.18.18/hls/tv2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="", ptv sports - mazic
 http://cdn.moviemazic.xyz:8083/Feedget/ptv_pk/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="", ptv sports - INT
+https://flussonic.defineatoz.com/PTV/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/80F3sQ8fNL.png", TSportshd - NID
 http://172.19.17.202:8090/hls/tsportshd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imglink.cc/cdn/UYlPYGqAAL.png", DD SPORTS - AKA
@@ -124,6 +125,8 @@ http://172.19.17.202:8090/hls/BTVNationalHD.m3u8
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/4WCFCrnuNs.jpg", star jalsha - INT
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://imglink.cc/cdn/IJzkIlAXRi.png", ZEE-Bangla - Digi
 http://172.18.18.18/hls/tv1.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="", Sun-Bangla
@@ -178,8 +181,10 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 =================MOVIES=================
 #EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="", Hindimovies - Ayna
-https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="", Gold Mines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="", Gold Mines Movie
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://imglink.cc/cdn/CeEmqLMjuw.jpg", JalshaMoviesHD - NID
 http://172.19.17.202:8090/hls/JalshaMoviesHD.m3u8
